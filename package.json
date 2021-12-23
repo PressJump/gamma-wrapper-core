@@ -1,0 +1,19 @@
+{
+  "name": "gamma-wrapper-core",
+  "version": "1.0.0",
+  "description": "An open-source Minecraft Server Wrapper made with node.js and express for the admin panel.",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PressJump/gamma-wrapper-core.git"
+  },
+  "author": "PressJump",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/PressJump/gamma-wrapper-core/issues"
+  },
+  "homepage": "https://github.com/PressJump/gamma-wrapper-core#readme"
+}
